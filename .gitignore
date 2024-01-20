@@ -1,4 +1,4 @@
-# History files
+sults# History files
 .Rhistory
 .Rapp.history
 
@@ -50,7 +50,7 @@ rsconnect/
 
 # Additional user-defined directories
 data/
-restults/
+results/
 
 # Addition user_defined files
 .DS_Store
