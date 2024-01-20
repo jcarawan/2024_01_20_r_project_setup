@@ -47,3 +47,10 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Additional user-defined directories
+data/
+restults/
+
+# Addition user_defined files
+.DS_Store
